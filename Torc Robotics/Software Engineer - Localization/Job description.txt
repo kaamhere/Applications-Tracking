@@ -1,0 +1,41 @@
+At Torc, we have always believed that autonomous vehicle technology will transform how we travel, ship goods, and do business.
+
+A leader in autonomous driving since 2007, Torc has spent over a decade commercializing their autonomous solutions with experienced partners. Now a part of the Daimler family, we are developing automated trucks to transform transportation.
+
+Join us and take your career to new heights with a company that helped pioneer autonomous technology. You’ll work with an experienced team of people who are committed to creating safer roads, and your contributions will have an impact on the future of transportation.
+
+About the Role:
+
+We are seeking a Senior Mapping & Localization Software Engineer to develop software that enables map-based autonomous driving. 
+
+As part of the mapping and localization team, you will be able to design, implement, and improve algorithms used to create and manage map data as well as algorithms used to localize a vehicle within the map in real time.  
+
+Analyze & Improve the current localization algorithms, ensuring our self-driving vehicles have the best localization accuracy to drive safely and smoothly on the road
+Research the state-of-the-art localization algorithms and apply excellent algorithm design & programming skills to our self-driving software
+Prototype and deploy robust and reliable solutions to cutting-edge localization problems
+Collaborate closely with a creative team of engineers and researchers
+Gain a deep understanding of not only the self-driving technology, but also its real-world challenges and how to convert such technology into real products
+Improve how our vehicles act and react in complex and nuanced situations 
+Competencies:
+
+Experience in robotics, aerospace or automotive systems engineering, specifically in mapping & localization domain required 
+Strong algorithm and C++ programming skills 
+Strong experience with Linux 
+Experience with ROS (Robot Operating System) is a plus 
+Ability to troubleshoot software, optimize code, and perform unit testing 
+Ability to implement algorithms efficiently and in a well-organized software architecture 
+Required Years of Experience: 
+
+Bachelor’s degree, or foreign degree equivalent, in Computer Science, Computer Engineering, Robotics Engineer, Mechanical Engineering, or engineering equivalent
+Minimum 6 years' experience with a relevant bachelors; Minimum 3 years’ experience with relevant Master level degree; Minimum 1 years with relevant PhD Degree 
+Perks of being a Torc’r:
+
+Torc cares about our team members and we strive to provide benefits and resources to support their health, work/life balance, and their future. Additionally, we are always open to suggestions to accommodate individual employee needs.  Torc offers:
+
+Full coverage of monthly medical premiums for full-time employees
+Medical/dental/vision/ AD+D and Life Insurance
+401K plan with employer matching
+Annual learning and development stipend
+Leadership development training
+Collaborative, energetic, and team-focused work environment
+Flexibility in schedule and generous paid vacation
